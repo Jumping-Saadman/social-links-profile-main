@@ -41,7 +41,7 @@ body {
 .container img {
   width: 85px;
   height: 85px;
-  margin: 30px auto;
+  margin: 35px auto 25px;
   border-radius: 50%;
 }
 
@@ -54,7 +54,7 @@ body {
 
 #location {
   color: var(--Green);
-  margin: 10px auto;
+  margin: 10px auto 20px;
 }
 
 #description {
